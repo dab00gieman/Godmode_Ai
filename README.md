@@ -1,4 +1,4 @@
-# vercel-openclaw
+# GODMODE_AI — OpenClaw on Vercel Sandbox
 
 Run [OpenClaw](https://github.com/openclaw/openclaw) in [Vercel Sandbox](https://vercel.com/docs/vercel-sandbox).
 
