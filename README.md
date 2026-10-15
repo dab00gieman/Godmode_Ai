@@ -18,6 +18,9 @@ No Dockerfile, no build step, no bundle pipeline. The image is the same one Open
 
 ## Quickstart
 
+Prerequisites: Node 18+ and the Vercel CLI installed and logged in
+(`vercel login`) — `vercel link` needs an authenticated CLI session.
+
 ```bash
 cd examples
 npm install
