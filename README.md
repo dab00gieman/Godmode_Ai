@@ -16,6 +16,16 @@ No Dockerfile, no build step, no bundle pipeline. The image is the same one Open
 
 > **Status:** the image is published to the OpenClaw Foundation's VCR repository ([vercel.com/openclaw-foundation/openclaw/images/openclaw](https://vercel.com/openclaw-foundation/openclaw/images/openclaw)) and flips public shortly. The reference above is final.
 
+## Contents
+
+- [Quickstart](#quickstart)
+- [The host app](#the-host-app-host)
+- [How the image stays current](#how-the-image-stays-current)
+- [What "public" means](#what-public-means)
+- [Sandbox-specific behavior](#sandbox-specific-behavior)
+- [Roadmap](#roadmap)
+- [License](#license)
+
 ## Quickstart
 
 Prerequisites: Node 18+ and the Vercel CLI installed and logged in
